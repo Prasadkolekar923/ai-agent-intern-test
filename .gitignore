@@ -1,0 +1,12 @@
+# Environment and secrets
+.env
+*.env
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Artifacts and logs
+*.log
