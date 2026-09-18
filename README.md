@@ -23,9 +23,9 @@ A production-grade, reliable Retrieval-Augmented Generation (RAG) customer suppo
 ## 1. Demo Walkthrough
 
 <!-- Replace with your hosted GIF or demo video link -->
-[![Aster & Row AI Support Agent Demo]
+[Aster & Row AI Support Agent Demo]
 
-> **Demo Video Link:** https://drive.google.com/file/d/1fWqPN83jA3i_cvckvZnySPVv0SY1Bc5-/view?usp=sharing))
+> **Demo Video Link:** https://drive.google.com/file/d/1fWqPN83jA3i_cvckvZnySPVv0SY1Bc5-/view?usp=sharing
 
 The recorded demonstration highlights the 5 required scenarios:
 1. **Knowledge-Base Inquiry with Citation:** Returns policy inquiry citing `[01-returns-policy-current.md > Standard return window]`.
