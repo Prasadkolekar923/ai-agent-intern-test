@@ -1,10 +1,4 @@
 # Aster & Row — Reliable AI Customer Support Agent
-
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Tests](https://img.shields.io/badge/tests-74%20passed-brightgreen.svg)](tests/)
-[![Eval Pass Rate](https://img.shields.io/badge/eval%20suite-24%2F27%20passed%20(88.9%25)-brightgreen.svg)](evaluation/)
-[![Observability](https://img.shields.io/badge/logging-JSON%20Structured%20%2B%20Redacted-orange.svg)](app/logging_utils.py)
-
 A production-grade, reliable Retrieval-Augmented Generation (RAG) customer support agent for **Aster & Row** (outdoor gear, apparel, and travel accessories). Engineered from the ground up to resist prompt injections, respect document precedence, eliminate hallucinated order data, maintain cross-turn session focus, and enforce strict customer privacy boundaries.
 
 ---
@@ -29,9 +23,9 @@ A production-grade, reliable Retrieval-Augmented Generation (RAG) customer suppo
 ## 1. Demo Walkthrough
 
 <!-- Replace with your hosted GIF or demo video link -->
-[![Aster & Row AI Support Agent Demo](https://img.shields.io/badge/Demo-Watch%20Walkthrough%20Video-blue?style=for-the-badge&logo=youtube)](docs/demo.mp4)
+[![Aster & Row AI Support Agent Demo]
 
-> **Demo Video Link:** [`docs/demo.mp4`](docs/demo.mp4) *(or embedded GIF preview)*
+> **Demo Video Link:** https://drive.google.com/file/d/1fWqPN83jA3i_cvckvZnySPVv0SY1Bc5-/view?usp=sharing))
 
 The recorded demonstration highlights the 5 required scenarios:
 1. **Knowledge-Base Inquiry with Citation:** Returns policy inquiry citing `[01-returns-policy-current.md > Standard return window]`.
